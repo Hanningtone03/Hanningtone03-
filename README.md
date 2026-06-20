@@ -1,10 +1,11 @@
 # Hanningtone Ombati
 
-Engineer from Nairobi. I spend my time understanding how things work by building them.
+Developer from Nairobi. I spend my time understanding how things work and building them from scratch.
 
 ## Projects
 
 | Project | Stack |
+|---------|-------|
 | [mini-compiler](https://github.com/Hanningtone03/mini-compiler) | C |
 | [raft-consensus](https://github.com/Hanningtone03/raft-consensus) | Go |
 | [build-your-own-distributed-kv](https://github.com/Hanningtone03/build-your-own-distributed-kv) | Node.js |
@@ -25,8 +26,7 @@ Engineer from Nairobi. I spend my time understanding how things work by building
 | [build-your-own-redis](https://github.com/Hanningtone03/build-your-own-redis) | Python |
 | [build-your-own-http-server](https://github.com/Hanningtone03/build-your-own-http-server) | Node.js |
 
-Each one built without libraries or frameworks; just the language and the problem.
-
+Each one built without libraries or frameworks.
 ## Stack
 
 ```
